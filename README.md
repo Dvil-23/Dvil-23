@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhruvil+Pandya;Full+Stack+Developer+in+Progress;SIH'25+Shortlisted+🚀;Always+Learning+Something+New;Studying+Mathematics+&+Computing+@+SVNIT" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Dhruvil+Pandya;Full+Stack+Developer+in+Progress;SIH'25+Shortlisted+🚀;Always+Learning+Something+New;Studying+Mathematics+And+Computing+@+SVNIT" />
 </p>
 
 <h3 align="center">🚀 First-Year Developer | Full-Stack Learner | SIH'25 Shortlisted</h3>
