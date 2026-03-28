@@ -73,11 +73,13 @@
 
 ## 🌐 Connect with Me
 <p align="center">
+  <a href="mailto:dvilpandya07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/dhruvil-pandya-79b5683a5/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
 ---
 
 ## ⚡ Philosophy
