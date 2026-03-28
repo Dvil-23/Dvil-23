@@ -77,19 +77,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dvil-23&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dvil-23&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 <p align="center">
